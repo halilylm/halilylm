@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate frontend developer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate backend developer from Istanbul, Turkey.</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@halilylm](https://medium.com/@halilylm)
 
